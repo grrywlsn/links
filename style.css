@@ -24,7 +24,7 @@ body {
 }
 
 a {
-    color: var(--accentColor);
+    color: #FFF;
 }
 
 #profilePicture, #profilePicture img {
