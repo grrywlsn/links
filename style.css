@@ -23,6 +23,10 @@ body {
     position: relative;
 }
 
+a {
+    color: var(--accentColor);
+}
+
 #profilePicture, #profilePicture img {
     position: relative;
     width: 96px;
